@@ -9,7 +9,7 @@
   "author": "Afsar Ali",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.21.4",
+    "axios": "^0.26.0",
     "qs": "^6.10.1"
   }
 }
